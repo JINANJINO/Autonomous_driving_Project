@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../../../build/midterm_env/midterm_env.egg-info/PKG-INFO
+../../../../build/midterm_env/midterm_env.egg-info/SOURCES.txt
+../../../../build/midterm_env/midterm_env.egg-info/dependency_links.txt
+../../../../build/midterm_env/midterm_env.egg-info/entry_points.txt
+../../../../build/midterm_env/midterm_env.egg-info/requires.txt
+../../../../build/midterm_env/midterm_env.egg-info/top_level.txt
+../../../../build/midterm_env/midterm_env.egg-info/zip-safe
+midterm_env/__init__.py
+midterm_env/env.py
+midterm_env/keyboard.py
+resource/midterm_env
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

@@ -1,0 +1,13 @@
+setup.py
+midterm_msgs/__init__.py
+midterm_msgs.egg-info/PKG-INFO
+midterm_msgs.egg-info/SOURCES.txt
+midterm_msgs.egg-info/dependency_links.txt
+midterm_msgs.egg-info/top_level.txt
+midterm_msgs/msg/__init__.py
+midterm_msgs/msg/_control.py
+midterm_msgs/msg/_goal.py
+midterm_msgs/msg/_simple_gps.py
+midterm_msgs/msg/_simple_lidar.py
+midterm_msgs/msg/_wall.py
+midterm_msgs/msg/_wall_list.py

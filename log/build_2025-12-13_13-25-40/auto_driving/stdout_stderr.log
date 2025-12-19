@@ -1,0 +1,27 @@
+running egg_info
+writing ../../../../build/auto_driving/auto_driving.egg-info/PKG-INFO
+writing dependency_links to ../../../../build/auto_driving/auto_driving.egg-info/dependency_links.txt
+writing entry points to ../../../../build/auto_driving/auto_driving.egg-info/entry_points.txt
+writing requirements to ../../../../build/auto_driving/auto_driving.egg-info/requires.txt
+writing top-level names to ../../../../build/auto_driving/auto_driving.egg-info/top_level.txt
+reading manifest file '../../../../build/auto_driving/auto_driving.egg-info/SOURCES.txt'
+writing manifest file '../../../../build/auto_driving/auto_driving.egg-info/SOURCES.txt'
+running build
+running build_py
+copying auto_driving/astar.py -> /home/jinhan/mid_mobiity/build/auto_driving/build/lib/auto_driving
+copying auto_driving/dstar_hard.py -> /home/jinhan/mid_mobiity/build/auto_driving/build/lib/auto_driving
+running install
+running install_lib
+copying /home/jinhan/mid_mobiity/build/auto_driving/build/lib/auto_driving/astar.py -> /home/jinhan/mid_mobiity/install/auto_driving/lib/python3.10/site-packages/auto_driving
+copying /home/jinhan/mid_mobiity/build/auto_driving/build/lib/auto_driving/dstar_hard.py -> /home/jinhan/mid_mobiity/install/auto_driving/lib/python3.10/site-packages/auto_driving
+byte-compiling /home/jinhan/mid_mobiity/install/auto_driving/lib/python3.10/site-packages/auto_driving/astar.py to astar.cpython-310.pyc
+byte-compiling /home/jinhan/mid_mobiity/install/auto_driving/lib/python3.10/site-packages/auto_driving/dstar_hard.py to dstar_hard.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/jinhan/mid_mobiity/install/auto_driving/lib/python3.10/site-packages/auto_driving-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../../../build/auto_driving/auto_driving.egg-info to /home/jinhan/mid_mobiity/install/auto_driving/lib/python3.10/site-packages/auto_driving-0.0.0-py3.10.egg-info
+running install_scripts
+Installing astar script to /home/jinhan/mid_mobiity/install/auto_driving/lib/auto_driving
+Installing dstar_hard script to /home/jinhan/mid_mobiity/install/auto_driving/lib/auto_driving
+Installing dstar_lite script to /home/jinhan/mid_mobiity/install/auto_driving/lib/auto_driving
+writing list of installed files to '/home/jinhan/mid_mobiity/build/auto_driving/install.log'

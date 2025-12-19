@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>auto_driving2</name>
+  <version>0.0.0</version>
+  <description>Global D* Lite + Local DWA planner with RViz visualization</description>
+  <maintainer email="jinhan@example.com">jinhan</maintainer>
+  <license>TODO: License declaration</license>
+
+  <!-- buildtool 은 ament_cmake 그대로 둬도 됨 (python 패키지도 이렇게 많이 씀) -->
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <!-- 실행 의존성 -->
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>midterm_msgs</exec_depend>
+  <exec_depend>nav_msgs</exec_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+  <exec_depend>visualization_msgs</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>

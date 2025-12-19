@@ -1,0 +1,4 @@
+[console_scripts]
+env = midterm_env.env:main
+keyboard = midterm_env.keyboard:main
+

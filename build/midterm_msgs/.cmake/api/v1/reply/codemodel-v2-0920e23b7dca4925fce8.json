@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-f80902fe9cfada9e6bcb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "midterm_msgs__py",
+					"jsonFile" : "directory-midterm_msgs__py-78b4365d7f2be2792e93.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/jinhan/mid_mobiity/build/midterm_msgs/midterm_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "midterm_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_midterm_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_midterm_msgs_egg-71df0684d199025d4cd6.json",
+					"name" : "ament_cmake_python_build_midterm_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_midterm_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_midterm_msgs-863b3da4f8807a827a94.json",
+					"name" : "ament_cmake_python_copy_midterm_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "midterm_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-midterm_msgs-2532b13968402fd8798c.json",
+					"name" : "midterm_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "midterm_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-midterm_msgs__cpp-f5e43d24adcd7cf73abf.json",
+					"name" : "midterm_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "midterm_msgs__py::@882577a6c00ee6709db4",
+					"jsonFile" : "target-midterm_msgs__py-5a56f79f1f792f5d63e5.json",
+					"name" : "midterm_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "midterm_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-midterm_msgs__rosidl_generator_c-9dd20d75dc06c8e6ab23.json",
+					"name" : "midterm_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "midterm_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-midterm_msgs__rosidl_generator_py-02e3d9d52ce9c8214bd8.json",
+					"name" : "midterm_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "midterm_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-midterm_msgs__rosidl_typesupport_c-646cdbc10ff7139043c9.json",
+					"name" : "midterm_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "midterm_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-midterm_msgs__rosidl_typesupport_c__pyext-a22628ea2608a412a73d.json",
+					"name" : "midterm_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "midterm_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-midterm_msgs__rosidl_typesupport_cpp-a14da951dd5fc9b9cc3d.json",
+					"name" : "midterm_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "midterm_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-midterm_msgs__rosidl_typesupport_fastrtps_c-c4a52a57a3713c9e8ea9.json",
+					"name" : "midterm_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "midterm_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-midterm_msgs__rosidl_typesupport_fastrtps_c__pyext-2d3a3e17bcc2e0d54d21.json",
+					"name" : "midterm_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "midterm_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-midterm_msgs__rosidl_typesupport_fastrtps_cpp-e5b064411d417af09e52.json",
+					"name" : "midterm_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "midterm_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-midterm_msgs__rosidl_typesupport_introspection_c-c86ec663d1247d80876f.json",
+					"name" : "midterm_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "midterm_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-midterm_msgs__rosidl_typesupport_introspection_c__pyext-ef7d5b0250935969501e.json",
+					"name" : "midterm_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "midterm_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-midterm_msgs__rosidl_typesupport_introspection_cpp-ed109c4df168ff3b7f22.json",
+					"name" : "midterm_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "midterm_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-midterm_msgs_uninstall-4c42380a024475730539.json",
+					"name" : "midterm_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-371f7192de7f37eb19ac.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jinhan/mid_mobiity/build/midterm_msgs",
+		"source" : "/home/jinhan/mid_mobiity/src/env/env/midterm_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,11 @@
+{
+  "package_name": "midterm_msgs",
+  "non_idl_tuples": [
+    "/home/jinhan/mid_mobiity/src/env/env/midterm_msgs:msg/Wall.msg",
+    "/home/jinhan/mid_mobiity/src/env/env/midterm_msgs:msg/Goal.msg",
+    "/home/jinhan/mid_mobiity/src/env/env/midterm_msgs:msg/SimpleGPS.msg",
+    "/home/jinhan/mid_mobiity/src/env/env/midterm_msgs:msg/SimpleLidar.msg",
+    "/home/jinhan/mid_mobiity/src/env/env/midterm_msgs:msg/WallList.msg",
+    "/home/jinhan/mid_mobiity/src/env/env/midterm_msgs:msg/Control.msg"
+  ]
+}

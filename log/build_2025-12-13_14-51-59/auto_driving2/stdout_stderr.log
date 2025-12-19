@@ -1,0 +1,37 @@
+running egg_info
+creating ../../../../build/auto_driving2/auto_driving2.egg-info
+writing ../../../../build/auto_driving2/auto_driving2.egg-info/PKG-INFO
+writing dependency_links to ../../../../build/auto_driving2/auto_driving2.egg-info/dependency_links.txt
+writing entry points to ../../../../build/auto_driving2/auto_driving2.egg-info/entry_points.txt
+writing requirements to ../../../../build/auto_driving2/auto_driving2.egg-info/requires.txt
+writing top-level names to ../../../../build/auto_driving2/auto_driving2.egg-info/top_level.txt
+writing manifest file '../../../../build/auto_driving2/auto_driving2.egg-info/SOURCES.txt'
+reading manifest file '../../../../build/auto_driving2/auto_driving2.egg-info/SOURCES.txt'
+writing manifest file '../../../../build/auto_driving2/auto_driving2.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/jinhan/mid_mobiity/build/auto_driving2/build
+creating /home/jinhan/mid_mobiity/build/auto_driving2/build/lib
+creating /home/jinhan/mid_mobiity/build/auto_driving2/build/lib/auto_driving2
+copying auto_driving2/__init__.py -> /home/jinhan/mid_mobiity/build/auto_driving2/build/lib/auto_driving2
+copying auto_driving2/integrated_planner_rviz.py -> /home/jinhan/mid_mobiity/build/auto_driving2/build/lib/auto_driving2
+running install
+running install_lib
+creating /home/jinhan/mid_mobiity/install/auto_driving2/lib/python3.10/site-packages/auto_driving2
+copying /home/jinhan/mid_mobiity/build/auto_driving2/build/lib/auto_driving2/__init__.py -> /home/jinhan/mid_mobiity/install/auto_driving2/lib/python3.10/site-packages/auto_driving2
+copying /home/jinhan/mid_mobiity/build/auto_driving2/build/lib/auto_driving2/integrated_planner_rviz.py -> /home/jinhan/mid_mobiity/install/auto_driving2/lib/python3.10/site-packages/auto_driving2
+byte-compiling /home/jinhan/mid_mobiity/install/auto_driving2/lib/python3.10/site-packages/auto_driving2/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/jinhan/mid_mobiity/install/auto_driving2/lib/python3.10/site-packages/auto_driving2/integrated_planner_rviz.py to integrated_planner_rviz.cpython-310.pyc
+running install_data
+creating /home/jinhan/mid_mobiity/install/auto_driving2/share/ament_index
+creating /home/jinhan/mid_mobiity/install/auto_driving2/share/ament_index/resource_index
+creating /home/jinhan/mid_mobiity/install/auto_driving2/share/ament_index/resource_index/packages
+copying resource/auto_driving2 -> /home/jinhan/mid_mobiity/install/auto_driving2/share/ament_index/resource_index/packages
+copying package.xml -> /home/jinhan/mid_mobiity/install/auto_driving2/share/auto_driving2
+creating /home/jinhan/mid_mobiity/install/auto_driving2/share/auto_driving2/launch
+copying launch/auto_driving2_rviz.launch.py -> /home/jinhan/mid_mobiity/install/auto_driving2/share/auto_driving2/launch
+running install_egg_info
+Copying ../../../../build/auto_driving2/auto_driving2.egg-info to /home/jinhan/mid_mobiity/install/auto_driving2/lib/python3.10/site-packages/auto_driving2-0.0.0-py3.10.egg-info
+running install_scripts
+Installing planner script to /home/jinhan/mid_mobiity/install/auto_driving2/lib/auto_driving2
+writing list of installed files to '/home/jinhan/mid_mobiity/build/auto_driving2/install.log'

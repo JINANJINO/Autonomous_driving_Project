@@ -1,0 +1,22 @@
+[0.377s] Invoking command in '/home/jinhan/mid_mobiity/src/env/env/midterm_env': AMENT_PREFIX_PATH=/home/jinhan/mid_mobiity/install/midterm_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/jinhan/mid_mobiity/install/midterm_msgs LD_LIBRARY_PATH=/home/jinhan/mid_mobiity/install/midterm_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/share/gazebo/../../lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/jinhan/mid_mobiity/build/midterm_env/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jinhan/mid_mobiity/install/midterm_env/lib/python3.10/site-packages:/home/jinhan/mid_mobiity/install/midterm_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/midterm_env build --build-base /home/jinhan/mid_mobiity/build/midterm_env/build install --record /home/jinhan/mid_mobiity/build/midterm_env/install.log --single-version-externally-managed install_data
+[0.523s] running egg_info
+[0.524s] writing ../../../../build/midterm_env/midterm_env.egg-info/PKG-INFO
+[0.524s] writing dependency_links to ../../../../build/midterm_env/midterm_env.egg-info/dependency_links.txt
+[0.524s] writing entry points to ../../../../build/midterm_env/midterm_env.egg-info/entry_points.txt
+[0.524s] writing requirements to ../../../../build/midterm_env/midterm_env.egg-info/requires.txt
+[0.524s] writing top-level names to ../../../../build/midterm_env/midterm_env.egg-info/top_level.txt
+[0.525s] reading manifest file '../../../../build/midterm_env/midterm_env.egg-info/SOURCES.txt'
+[0.526s] writing manifest file '../../../../build/midterm_env/midterm_env.egg-info/SOURCES.txt'
+[0.526s] running build
+[0.526s] running build_py
+[0.526s] running install
+[0.526s] running install_lib
+[0.527s] running install_data
+[0.527s] running install_egg_info
+[0.528s] removing '/home/jinhan/mid_mobiity/install/midterm_env/lib/python3.10/site-packages/midterm_env-0.0.0-py3.10.egg-info' (and everything under it)
+[0.528s] Copying ../../../../build/midterm_env/midterm_env.egg-info to /home/jinhan/mid_mobiity/install/midterm_env/lib/python3.10/site-packages/midterm_env-0.0.0-py3.10.egg-info
+[0.529s] running install_scripts
+[0.543s] Installing env script to /home/jinhan/mid_mobiity/install/midterm_env/lib/midterm_env
+[0.543s] Installing keyboard script to /home/jinhan/mid_mobiity/install/midterm_env/lib/midterm_env
+[0.543s] writing list of installed files to '/home/jinhan/mid_mobiity/build/midterm_env/install.log'
+[0.559s] Invoked command in '/home/jinhan/mid_mobiity/src/env/env/midterm_env' returned '0': AMENT_PREFIX_PATH=/home/jinhan/mid_mobiity/install/midterm_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/jinhan/mid_mobiity/install/midterm_msgs LD_LIBRARY_PATH=/home/jinhan/mid_mobiity/install/midterm_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/share/gazebo/../../lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/jinhan/mid_mobiity/build/midterm_env/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jinhan/mid_mobiity/install/midterm_env/lib/python3.10/site-packages:/home/jinhan/mid_mobiity/install/midterm_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/midterm_env build --build-base /home/jinhan/mid_mobiity/build/midterm_env/build install --record /home/jinhan/mid_mobiity/build/midterm_env/install.log --single-version-externally-managed install_data

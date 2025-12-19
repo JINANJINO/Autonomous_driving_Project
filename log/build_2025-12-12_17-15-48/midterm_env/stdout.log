@@ -1,0 +1,39 @@
+running egg_info
+creating ../../../../build/midterm_env/midterm_env.egg-info
+writing ../../../../build/midterm_env/midterm_env.egg-info/PKG-INFO
+writing dependency_links to ../../../../build/midterm_env/midterm_env.egg-info/dependency_links.txt
+writing entry points to ../../../../build/midterm_env/midterm_env.egg-info/entry_points.txt
+writing requirements to ../../../../build/midterm_env/midterm_env.egg-info/requires.txt
+writing top-level names to ../../../../build/midterm_env/midterm_env.egg-info/top_level.txt
+writing manifest file '../../../../build/midterm_env/midterm_env.egg-info/SOURCES.txt'
+reading manifest file '../../../../build/midterm_env/midterm_env.egg-info/SOURCES.txt'
+writing manifest file '../../../../build/midterm_env/midterm_env.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/jinhan/mid_mobiity/build/midterm_env/build
+creating /home/jinhan/mid_mobiity/build/midterm_env/build/lib
+creating /home/jinhan/mid_mobiity/build/midterm_env/build/lib/midterm_env
+copying midterm_env/__init__.py -> /home/jinhan/mid_mobiity/build/midterm_env/build/lib/midterm_env
+copying midterm_env/keyboard.py -> /home/jinhan/mid_mobiity/build/midterm_env/build/lib/midterm_env
+copying midterm_env/env.py -> /home/jinhan/mid_mobiity/build/midterm_env/build/lib/midterm_env
+running install
+running install_lib
+creating /home/jinhan/mid_mobiity/install/midterm_env/lib/python3.10/site-packages/midterm_env
+copying /home/jinhan/mid_mobiity/build/midterm_env/build/lib/midterm_env/__init__.py -> /home/jinhan/mid_mobiity/install/midterm_env/lib/python3.10/site-packages/midterm_env
+copying /home/jinhan/mid_mobiity/build/midterm_env/build/lib/midterm_env/keyboard.py -> /home/jinhan/mid_mobiity/install/midterm_env/lib/python3.10/site-packages/midterm_env
+copying /home/jinhan/mid_mobiity/build/midterm_env/build/lib/midterm_env/env.py -> /home/jinhan/mid_mobiity/install/midterm_env/lib/python3.10/site-packages/midterm_env
+byte-compiling /home/jinhan/mid_mobiity/install/midterm_env/lib/python3.10/site-packages/midterm_env/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/jinhan/mid_mobiity/install/midterm_env/lib/python3.10/site-packages/midterm_env/keyboard.py to keyboard.cpython-310.pyc
+byte-compiling /home/jinhan/mid_mobiity/install/midterm_env/lib/python3.10/site-packages/midterm_env/env.py to env.cpython-310.pyc
+running install_data
+creating /home/jinhan/mid_mobiity/install/midterm_env/share/ament_index
+creating /home/jinhan/mid_mobiity/install/midterm_env/share/ament_index/resource_index
+creating /home/jinhan/mid_mobiity/install/midterm_env/share/ament_index/resource_index/packages
+copying resource/midterm_env -> /home/jinhan/mid_mobiity/install/midterm_env/share/ament_index/resource_index/packages
+copying package.xml -> /home/jinhan/mid_mobiity/install/midterm_env/share/midterm_env
+running install_egg_info
+Copying ../../../../build/midterm_env/midterm_env.egg-info to /home/jinhan/mid_mobiity/install/midterm_env/lib/python3.10/site-packages/midterm_env-0.0.0-py3.10.egg-info
+running install_scripts
+Installing env script to /home/jinhan/mid_mobiity/install/midterm_env/lib/midterm_env
+Installing keyboard script to /home/jinhan/mid_mobiity/install/midterm_env/lib/midterm_env
+writing list of installed files to '/home/jinhan/mid_mobiity/build/midterm_env/install.log'

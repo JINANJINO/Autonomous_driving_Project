@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "midterm_msgs__py",
+		"source" : "/home/jinhan/mid_mobiity/build/midterm_msgs/midterm_msgs__py"
+	}
+}

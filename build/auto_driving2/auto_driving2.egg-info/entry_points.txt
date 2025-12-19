@@ -1,0 +1,3 @@
+[console_scripts]
+planner = auto_driving2.integrated_planner_rviz:main
+

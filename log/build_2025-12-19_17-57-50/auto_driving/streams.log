@@ -1,0 +1,26 @@
+[0.694s] Invoking command in '/home/jinhan/mid_mobiity/src/env/env/auto_driving': PYTHONPATH=/home/jinhan/mid_mobiity/build/auto_driving/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jinhan/mid_mobiity/install/auto_driving/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/auto_driving build --build-base /home/jinhan/mid_mobiity/build/auto_driving/build install --record /home/jinhan/mid_mobiity/build/auto_driving/install.log --single-version-externally-managed install_data
+[0.850s] running egg_info
+[0.850s] writing ../../../../build/auto_driving/auto_driving.egg-info/PKG-INFO
+[0.850s] writing dependency_links to ../../../../build/auto_driving/auto_driving.egg-info/dependency_links.txt
+[0.851s] writing entry points to ../../../../build/auto_driving/auto_driving.egg-info/entry_points.txt
+[0.851s] writing requirements to ../../../../build/auto_driving/auto_driving.egg-info/requires.txt
+[0.851s] writing top-level names to ../../../../build/auto_driving/auto_driving.egg-info/top_level.txt
+[0.852s] reading manifest file '../../../../build/auto_driving/auto_driving.egg-info/SOURCES.txt'
+[0.853s] writing manifest file '../../../../build/auto_driving/auto_driving.egg-info/SOURCES.txt'
+[0.853s] running build
+[0.853s] running build_py
+[0.853s] copying auto_driving/dstar_hard.py -> /home/jinhan/mid_mobiity/build/auto_driving/build/lib/auto_driving
+[0.853s] running install
+[0.853s] running install_lib
+[0.854s] copying /home/jinhan/mid_mobiity/build/auto_driving/build/lib/auto_driving/dstar_hard.py -> /home/jinhan/mid_mobiity/install/auto_driving/lib/python3.10/site-packages/auto_driving
+[0.855s] byte-compiling /home/jinhan/mid_mobiity/install/auto_driving/lib/python3.10/site-packages/auto_driving/dstar_hard.py to dstar_hard.cpython-310.pyc
+[0.858s] running install_data
+[0.859s] running install_egg_info
+[0.860s] removing '/home/jinhan/mid_mobiity/install/auto_driving/lib/python3.10/site-packages/auto_driving-0.0.0-py3.10.egg-info' (and everything under it)
+[0.860s] Copying ../../../../build/auto_driving/auto_driving.egg-info to /home/jinhan/mid_mobiity/install/auto_driving/lib/python3.10/site-packages/auto_driving-0.0.0-py3.10.egg-info
+[0.860s] running install_scripts
+[0.875s] Installing astar script to /home/jinhan/mid_mobiity/install/auto_driving/lib/auto_driving
+[0.875s] Installing dstar_hard script to /home/jinhan/mid_mobiity/install/auto_driving/lib/auto_driving
+[0.875s] Installing dstar_lite script to /home/jinhan/mid_mobiity/install/auto_driving/lib/auto_driving
+[0.875s] writing list of installed files to '/home/jinhan/mid_mobiity/build/auto_driving/install.log'
+[0.897s] Invoked command in '/home/jinhan/mid_mobiity/src/env/env/auto_driving' returned '0': PYTHONPATH=/home/jinhan/mid_mobiity/build/auto_driving/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jinhan/mid_mobiity/install/auto_driving/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/auto_driving build --build-base /home/jinhan/mid_mobiity/build/auto_driving/build install --record /home/jinhan/mid_mobiity/build/auto_driving/install.log --single-version-externally-managed install_data

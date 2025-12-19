@@ -1,0 +1,5 @@
+[console_scripts]
+astar = auto_driving.astar:main
+dstar_hard = auto_driving.dstar_hard:main
+dstar_lite = auto_driving.dstar_lite:main
+
