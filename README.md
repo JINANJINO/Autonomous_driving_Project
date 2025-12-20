@@ -37,5 +37,13 @@ The algorithm for the ```auto_driving``` package currently included in the repos
 And as you can see when you open the **Hard map**, there are very long obstacles, like walls, that are not captured on the map. To overcome this, we structured the code so that areas recognized as walls within the Lidar would remain on the map, utilizing **probabilistic methods** to ensure that highly reliable areas would 
 remain.
 For **Global Planner**, ```A* algorithm``` was used. And for **Local Planner**, **DWA (Dynamic Window Approach)** method was used.
+
+
 > I encourage you to actively experiment with various algorithms, such as ```RRT```, ```RRT*```, and ```D* lite```.
 > You could also consider utilizing ```Euclidian Clustering``` for preprocessing sensor data. To try these out, simply create a new Python file and modify ```setup.py``` to test your code.
+
+
+
+https://github.com/user-attachments/assets/73f25b03-1de3-489b-b92a-5c4c00b0ebe7
+
+
