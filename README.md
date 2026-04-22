@@ -47,3 +47,5 @@ For **Global Planner**, ```A* algorithm``` was used. And for **Local Planner**, 
 https://github.com/user-attachments/assets/73f25b03-1de3-489b-b92a-5c4c00b0ebe7
 
 
+
+> **Environment Update:** This project has been migrated and verified on Ubuntu 24.04 LTS (ROS 2).
